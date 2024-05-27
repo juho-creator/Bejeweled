@@ -7,6 +7,9 @@ This is a Bejeweled game developed in C++ as an assignment for Advanced C++ Prog
 
 
 ## Demonstration Video
+[![image](https://github.com/juho-creator/Bejeweled/assets/72856990/20a05ac9-fada-440d-9faa-d61a05e954ab)
+](https://www.youtube.com/watch?v=g2H3WB9AcdQ)
+
 </br></br>
 
 ## Description
@@ -27,8 +30,7 @@ This is a Bejeweled game developed in C++ as an assignment for Advanced C++ Prog
   - Sometimes, the falling of gems will trigger chain reactions (cascades), where new chains are formed as a result of gems falling into place. Chain reactions are typically rewarded with bonus points.
 </br></br>
 
-### Features
-</br></br>
+
 
 ## Reference
 - [What is Bejeweled?](https://en.wikipedia.org/wiki/Bejeweled)
