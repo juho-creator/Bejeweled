@@ -1,7 +1,7 @@
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/Bejeweled/blob/main/README.md)
 
-# 비주얼드
-이 게임은 고급 C++ 프로그래밍 수업 과제로 C++로 개발된 비주얼드 게임입니다.
+# 비쥬얼드
+이 게임은 고급 C++ 프로그래밍 수업 과제로 C++로 개발된 비쥬얼드 게임입니다.
 </br></br>
 
 ## 시연 영상
@@ -30,6 +30,6 @@
 
 ## 참고문헌
 - [비주얼드란?](https://en.wikipedia.org/wiki/Bejeweled)
-- [이강훈 교수님의 비주얼드 시연영상](https://www.youtube.com/watch?v=NR3_Tj7XwAE)
-- [온라인에서 비주얼드 해보기](https://archive.org/details/msdos_Shariki_1994)
+- [이강훈 교수님의 비쥬얼드 시연영상](https://www.youtube.com/watch?v=NR3_Tj7XwAE)
+- [온라인에서 비쥬얼드 해보기](https://archive.org/details/msdos_Shariki_1994)
 - [정적 멤버 & 상수 멤버](https://tcpschool.com/cpp/cpp_encapsulation_staticConst)
